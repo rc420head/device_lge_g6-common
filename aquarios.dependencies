@@ -2,6 +2,6 @@
   {
     "repository": "device_lge_msm8996-common",
     "target_path": "device/lge/msm8996-common",
-    "revision": "a8.1.0-caf"
+    "revision": "a9-caf"
   }
 ]
